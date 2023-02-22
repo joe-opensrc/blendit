@@ -11,3 +11,5 @@
  - silvercube-001-1080p
 
 202x (IntelHD):
+
+ - wintermute-pixel-planet-tut-512px
