@@ -14,3 +14,8 @@
 
  - wintermute-pixel-planet-tut-512px
  - book-tex-lowpoly-1-720p.mp4
+
+blendFiles:
+  - some source files + couple of assets
+  - terrible file organisation and naming schemes :D
+
